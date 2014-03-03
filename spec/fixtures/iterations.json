@@ -1,0 +1,41 @@
+[
+  {
+    "include_in_velocity": true,
+    "locked": false,
+    "name": "Backlog",
+    "default_iteration": true,
+    "url": "/projects/project/foo/iteration/11111",
+    "detail": "",
+    "id": 11111,
+    "story_count": 18,
+    "end_date": null,
+    "hidden": false,
+    "start_date": null
+  },
+  {
+    "include_in_velocity": true,
+    "locked": false,
+    "name": "Sprint 1",
+    "default_iteration": false,
+    "url": "/projects/project/foo/iteration/22222",
+    "detail": "",
+    "id": 22222,
+    "story_count": 6,
+    "end_date": "2014-01-13",
+    "hidden": false,
+    "start_date": "2013-12-10"
+  },
+  {
+    "include_in_velocity": true,
+    "locked": false,
+    "name": "Sprint 2",
+    "default_iteration": false,
+    "url": "/projects/project/foo/iteration/33333",
+    "detail": "",
+    "id": 33333,
+    "story_count": 14,
+    "end_date": "2014-02-10",
+    "hidden": false,
+    "start_date": "2014-01-14"
+  }
+]

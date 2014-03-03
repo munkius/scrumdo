@@ -1,0 +1,123 @@
+{
+  "extra_2_label": "",
+  "project_type": 0,
+  "use_extra_1": false,
+  "statuses": [
+    "Todo",
+    "",
+    "",
+    "Doing",
+    "",
+    "",
+    "Reviewing",
+    "",
+    "",
+    "Done"
+  ],
+  "use_extra_3": false,
+  "category": "",
+  "task_statuses": [
+    "Todo",
+    "",
+    "",
+    "Doing",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Done"
+  ],
+  "extra_3_label": "",
+  "use_tasks": true,
+  "id": 11111,
+  "use_extra_2": false,
+  "description": "",
+  "tags": [],
+  "members": [
+    {
+      "username": "john_doe",
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john@doe.com",
+      "id": 22222
+    },
+    {
+      "username": "munkius",
+      "first_name": "Sander",
+      "last_name": "Nieuwenhuizen",
+      "email": "sander@doe.com",
+      "id": 33333
+    }
+  ],
+  "use_assignee": true,
+  "iterations_left": 3,
+  "slug": "foo",
+  "categories": [
+    "None",
+    ""
+  ],
+  "point_scale": [
+    [
+      "?",
+      "?"
+    ],
+    [
+      "0",
+      "0"
+    ],
+    [
+      "0.5",
+      "0.5"
+    ],
+    [
+      "1",
+      "1"
+    ],
+    [
+      "2",
+      "2"
+    ],
+    [
+      "3",
+      "3"
+    ],
+    [
+      "5",
+      "5"
+    ],
+    [
+      "8",
+      "8"
+    ],
+    [
+      "13",
+      "13"
+    ],
+    [
+      "20",
+      "20"
+    ],
+    [
+      "40",
+      "40"
+    ],
+    [
+      "100",
+      "100"
+    ],
+    [
+      "Inf",
+      "Infinite"
+    ]
+  ],
+  "point_scale_type": 0,
+  "name": "Debtor",
+  "created": "2014-01-17T09:06:32",
+  "url": "/projects/project/foo/",
+  "burnup_reset_date": null,
+  "burnup_reset": 0,
+  "extra_1_label": "",
+  "velocity": 42,
+  "kanban_iterations": {}
+}

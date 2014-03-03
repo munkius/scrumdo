@@ -1,0 +1,23 @@
+[
+  {
+    "username": "john_doe",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john@doe.com",
+    "id": 22222
+  },
+  {
+    "username": "munkius",
+    "first_name": "Sander",
+    "last_name": "Nieuwenhuizen",
+    "email": "sander@doe.com",
+    "id": 33333
+  },
+  {
+    "username": "blank",
+    "first_name": "",
+    "last_name": "",
+    "email": "blank@doe.com",
+    "id": 44444
+  }
+]
